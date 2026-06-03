@@ -1,0 +1,10 @@
+target/
+*.class
+
+.vscode/
+.idea/
+
+.codex/
+.agents/
+
+.DS_Store

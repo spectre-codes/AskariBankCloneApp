@@ -1,0 +1,17 @@
+package com.askaribank;
+
+public enum TransactionType {
+    DEPOSIT,
+    WITHDRAWAL,
+    TRANSFER_IN,
+    TRANSFER_OUT,
+    MOBILE_TOPUP,
+    BILL_PAYMENT,
+    MTAG_PAYMENT,
+    CARDLESS_CASH,
+    TICKET_PURCHASE,
+    DONATION,
+    LOAN_DISBURSEMENT,
+    RAAST_TRANSFER_OUT,
+    RAAST_TRANSFER_IN
+}

@@ -1,0 +1,68 @@
+2026-05-30 00:17:53 | LOGIN_FAILED | Customer login failed for admin
+2026-05-30 00:18:06 | STAFF_LOGIN | Staff admin logged in
+2026-05-30 00:18:06 | LOGIN_SUCCESS | Staff login successful
+2026-05-30 00:29:42 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-30 00:29:42 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-30 00:30:03 | CARD_UNBLOCKED | Card unblocked for ASK-2026-00001
+2026-05-30 01:16:33 | LOGIN_FAILED | Customer login failed for admin
+2026-05-30 01:16:39 | LOGIN_FAILED | Staff login failed for admin
+2026-05-30 01:16:49 | STAFF_LOGIN | Staff admin logged in
+2026-05-30 01:16:49 | LOGIN_SUCCESS | Staff login successful
+2026-05-31 01:21:22 | STAFF_LOGIN | Staff admin logged in
+2026-05-31 01:21:22 | LOGIN_SUCCESS | Staff login successful
+2026-05-31 01:46:58 | STAFF_LOGIN | Staff admin logged in
+2026-05-31 01:46:58 | LOGIN_SUCCESS | Staff login successful
+2026-05-31 01:47:35 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 01:47:35 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 02:02:08 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 02:02:08 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 14:02:55 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 14:02:55 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 14:06:52 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 14:06:52 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 14:28:44 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 14:28:44 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 14:30:49 | STAFF_LOGIN | Staff admin logged in
+2026-05-31 14:30:49 | LOGIN_SUCCESS | Staff login successful
+2026-05-31 14:31:54 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 14:31:54 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 15:38:24 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 15:38:24 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 22:47:38 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 22:47:38 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 23:32:37 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 23:32:37 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-05-31 23:41:51 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-05-31 23:41:51 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-06-02 21:51:01 | BIOMETRIC_LOGIN_SIMULATION | ASK-2026-00001 logged in with simulated biometric access
+2026-06-02 21:51:01 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-06-02 21:51:01 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-06-02 22:05:59 | BIOMETRIC_LOGIN_SIMULATION | ASK-2026-00001 logged in with simulated biometric access
+2026-06-02 22:05:59 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-06-02 22:05:59 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-06-03 16:27:17 | BIOMETRIC_LOGIN_SIMULATION | ASK-2026-00001 logged in with simulated biometric access
+2026-06-03 16:27:17 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-06-03 16:27:17 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-06-03 16:51:16 | ACCOUNT_APPLICATION_SUBMITTED | APP-00001 for 3740878923475
+2026-06-03 16:51:28 | STAFF_LOGIN | Staff admin logged in
+2026-06-03 16:51:28 | LOGIN_SUCCESS | Staff login successful
+2026-06-03 16:51:36 | ACCOUNT_APPLICATION_APPROVED | APP-00001
+2026-06-03 16:51:52 | ACCOUNT_APPLICATION_APPROVED | APP-00001
+2026-06-03 16:54:37 | DEPOSIT | Deposit into ASK-2026-00003 amount PKR 2500.0
+2026-06-03 16:54:37 | ACCOUNT_CREATED | Account created for aK - ASK-2026-00003
+2026-06-03 16:54:55 | LOGIN_FAILED | Customer login failed for ak
+2026-06-03 16:55:07 | STAFF_LOGIN | Staff admin logged in
+2026-06-03 16:55:07 | LOGIN_SUCCESS | Staff login successful
+2026-06-03 16:55:39 | LOGIN_FAILED | Customer login failed for aK
+2026-06-03 16:55:55 | STAFF_LOGIN | Staff admin logged in
+2026-06-03 16:55:55 | LOGIN_SUCCESS | Staff login successful
+2026-06-03 16:57:35 | DEPOSIT | Deposit into ASK-2026-00004 amount PKR 450000.0
+2026-06-03 16:57:35 | ACCOUNT_CREATED | Account created for Nadir - ASK-2026-00004
+2026-06-03 16:57:55 | CUSTOMER_LOGIN | ASK-2026-00004 logged in
+2026-06-03 16:57:55 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00004
+2026-06-03 19:15:04 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-06-03 19:15:04 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-06-03 19:17:50 | CUSTOMER_LOGIN | ASK-2026-00001 logged in
+2026-06-03 19:17:50 | LOGIN_SUCCESS | Customer login successful for ASK-2026-00001
+2026-06-03 19:23:46 | STAFF_LOGIN | Staff admin logged in
+2026-06-03 19:23:46 | LOGIN_SUCCESS | Staff login successful

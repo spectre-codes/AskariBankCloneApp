@@ -1,0 +1,5 @@
+transactionId,fromAccountNumber,toAccountNumber,transactionType,amount,description,transactionDateTime,balanceAfterTransaction
+TXN-00001,,ASK-2026-00001,DEPOSIT,50000.0,Demo opening balance,2026-05-29T21:50:50.711742758,50000.0
+TXN-00002,,ASK-2026-00002,DEPOSIT,75000.0,Demo opening balance,2026-05-29T21:50:50.711742758,75000.0
+TXN-00003,,ASK-2026-00003,DEPOSIT,2500.0,Initial account opening deposit,2026-06-03T16:54:37.258256901,2500.0
+TXN-00004,,ASK-2026-00004,DEPOSIT,450000.0,Initial account opening deposit,2026-06-03T16:57:35.111442481,450000.0

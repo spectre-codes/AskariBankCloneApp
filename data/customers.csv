@@ -1,0 +1,5 @@
+customerFullName,cnicNumber,phoneNumber,accountNumber,accountBalance,accountType,cardType,atmPin,dateOpened,transactionPin,failedLoginAttempts,locked,frozen,raastId,raastLinked,email,address,dailyTransferLimit,dailyBillPaymentLimit,dailyTopUpLimit,dailyCardlessCashLimit,usedTransferToday,usedBillPaymentToday,usedTopUpToday,usedCardlessCashToday,lastLimitResetDate,hideBalanceByDefault
+Ali Raza,3520212345671,03001234567,ASK-2026-00001,50000.0,Savings,Visa,1234,2026-05-29,1234,0,false,false,,false,,,100000.0,50000.0,10000.0,30000.0,0.0,0.0,0.0,0.0,2026-06-03,true
+Sana Khan,3520212345672,03007654321,ASK-2026-00002,75000.0,Current,Mastercard,4321,2026-05-29,4321,0,false,false,,false,,,100000.0,50000.0,10000.0,30000.0,0.0,0.0,0.0,0.0,2026-05-31,true
+aK,3256745623789,0321042134,ASK-2026-00003,2500.0,Current,Mastercard,1245,2026-06-03,1245,0,false,false,,false,,,100000.0,50000.0,10000.0,30000.0,0.0,0.0,0.0,0.0,2026-06-03,true
+Nadir,37406987654321,03333333333,ASK-2026-00004,450000.0,Current,Visa,1234,2026-06-03,1234,0,false,false,,false,,,100000.0,50000.0,10000.0,30000.0,0.0,0.0,0.0,0.0,2026-06-03,true
