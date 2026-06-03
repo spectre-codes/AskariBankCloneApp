@@ -4,6 +4,17 @@ A professional educational desktop banking application built with Java 17, JavaF
 
 This is a university OOP + JavaFX semester project. It uses Java Collections with simple CSV/text file handling. There is no database, no SQLite, no web backend, and no networking.
 
+
+## Disclaimer
+This project was developed for educational and academic purposes only as part of an Object-Oriented Programming semester project.
+
+It is a desktop banking simulation inspired by modern digital banking applications and does not represent a real banking system.
+
+No real financial transactions, banking network integration, or production-level security mechanisms are implemented.
+
+This project is intended solely for learning, demonstration, and evaluation purposes.
+
+
 ## Features
 
 - Secure Banking Login with Customer Login and Staff Login modes
@@ -79,7 +90,7 @@ mvn clean javafx:run
 
 In VS Code, use the launch configuration named `Run Askari Bank App`. It runs `com.askaribank.AppLauncher`, which avoids the common JavaFX direct-launch error.
 
-## Demo Login
+## Demo Login 
 
 ```text
 Staff username: admin
