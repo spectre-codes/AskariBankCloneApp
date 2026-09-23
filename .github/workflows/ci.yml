@@ -16,6 +16,7 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
-
+      - name: Deliberate assignment failure
+        run: exit 1
       - name: Build with Maven
         run: mvn --batch-mode package
